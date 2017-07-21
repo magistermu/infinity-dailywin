@@ -1,0 +1,39 @@
+.contraste {
+  background-color: #2C353F;
+  color: white;
+}
+
+.jumbotron {
+  background-position: center;
+  background-image: url("../images/las_vegas_nevada.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.cta{
+  height: 63px;
+  font-size: 20px;
+}
+
+#myModal {
+  color: black;
+}
+
+.shadow h1 , .shadow h3{
+  text-shadow: 1px 1px black;
+}
+
+.logo-color {
+  color:white;
+}
+
+.spacer {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+@media (max-width: 768px) {
+      .media .col-xs-12 {
+              text-align: center;
+       }
+    }
